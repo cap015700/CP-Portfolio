@@ -1,0 +1,80 @@
+body {
+    background-color: lightgray;
+    color: #00004d;
+}
+
+h1{
+    color: #00004d;
+     background-color: white;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-weight: bold;
+}
+h4 {
+    font-size: 14px;
+}
+
+.navbar-default .navbar-brand {
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: x-large;
+    background-color: #00004d;
+}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color:white;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li {
+    font-size: 14px;
+}
+ul {
+    font-size:24px;
+    text-align: left;
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container-fluid {
+    background-color:#00004d;
+    padding-right: -20px;
+    padding-left: 0px; 
+}
+img {
+    float:left;
+}
+text {
+    font-style: italic;
+    font-size: 12px;
+}
+a {
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+}
+footer {
+    text-align: center;
+    margin:0px;
+    font-size: 40px;
+    position:fixed;
+    bottom:0;
+    width: 100%;
+    padding-left: 0px;
+    padding-right:30px;
+    
+}
+
+.fa-github, .fa-linkedin {
+    padding-left: 30px;
+    
+
+}
+ .container{
+     background-color: white;
+     padding-top: 30px;
+     padding-left: 30px;
+     padding-right: 30px;
+     padding-bottom: 30px;
+}
